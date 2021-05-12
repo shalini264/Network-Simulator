@@ -2,7 +2,7 @@
 This simulator is demonstrating physical layer and data-link layer functionalities.<br />
 <h2><u><b>Language used:</b></u></h2> <br />
 C++
-![Screenshot](Screenshot(49).png)<br />
+![alt text](https://github.com/shalini264/Network-Simulator/blob/main/Screenshot%20(49).png)<br />
 ![Screenshot](Screenshot(50).png)<br />
 ![Screenshot](Screenshot(51).png)<br />
 <h2><u><b>SETUP:</b></u></h2> <br />
